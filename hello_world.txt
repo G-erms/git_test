@@ -1,1 +1,2 @@
 Erhm what the sigma
+Added the following to avoid Vim: git config --global core.editor "code --wait"
